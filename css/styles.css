@@ -32,7 +32,7 @@ body {
   color: var(--second-color);
 }
 
-.header-link:current {
+.header-link.current {
   color: var(--fourth-color);
 }
 
