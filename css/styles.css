@@ -32,6 +32,10 @@ body {
   color: var(--second-color);
 }
 
+.header-link:current {
+  color: var(--fourth-color);
+}
+
 .header-link:hover,
 .header-link:focus {
   color: var(--fourth-color);
@@ -47,11 +51,11 @@ body {
   text-decoration: none;
 }
 
-.logo2 {
+.logo-header {
   color: #000000;
 }
 
-.logo3 {
+.logo-footer {
   color: var(--first-color);
 }
 
