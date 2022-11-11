@@ -26,7 +26,7 @@ body {
 .header-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 114%;
   letter-spacing: 0.02em;
   text-decoration: none;
   color: var(--second-color);
@@ -43,9 +43,8 @@ body {
 
 .logo {
   font-family: "Raleway";
-  font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 119%;
   letter-spacing: 0.03em;
   color: var(--fourth-color);
   text-decoration: none;
@@ -62,7 +61,7 @@ body {
 .nav-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 114%;
   letter-spacing: 0.02em;
   color: var(--third-color);
   text-decoration: none;
@@ -81,7 +80,7 @@ body {
 .hero-title {
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 136%;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -91,7 +90,8 @@ body {
 .hero-button {
   font-weight: 700;
   font-size: 16px;
-  line-height: 30px;
+  font-family: 'Roboto';
+  line-height: 188%;
   display: flex;
   align-items: center;
   text-align: center;
@@ -106,7 +106,7 @@ body {
 .section-button {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 162%;
   letter-spacing: 0.02em;
   color: var(--second-color);
   background-color: var(--sixth-color);
@@ -120,17 +120,15 @@ body {
 }
 
 .section-list h3 {
-  font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 200%;
   letter-spacing: 0.06em;
   color: var(--second-color);
 }
 
 .section-list p {
-  font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 187%;
   letter-spacing: 0.03em;
   color: var(--third-color);
 }
@@ -138,33 +136,39 @@ body {
 /*ideology*/
 
 .ideology-subtitle {
-  font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 114%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--second-color);
 }
 
 .ideology-list p {
-  font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 171%;
   letter-spacing: 0.03em;
   color: var(--third-color);
 }
 /*work*/
 
 .work-title {
-  font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 116%;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--second-color);
 }
 
 /* team */
+
+.team-title {
+  font-family: 'Roboto';
+font-size: 36px;
+line-height: 116%;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
 
 .team {
   background-color: var(--sixth-color);
@@ -173,16 +177,15 @@ body {
 .team-list h3 {
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 118%;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--second-color);
 }
 
 .team-list p {
-  font-weight: 400;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 118%;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--third-color);
@@ -196,9 +199,8 @@ body {
 .adress-map {
   text-decoration: none;
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 171%;
   letter-spacing: 0.03em;
   color: var(--first-color);
 }
@@ -210,9 +212,8 @@ body {
 
 .adress-contact {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 171%;
   letter-spacing: 0.03em;
   text-decoration: none;
   color: rgba(255, 255, 255, 0.6);
