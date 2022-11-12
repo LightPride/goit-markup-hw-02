@@ -26,7 +26,7 @@ body {
 .header-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 114%;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
   color: var(--second-color);
@@ -44,7 +44,7 @@ body {
 .logo {
   font-family: "Raleway";
   font-size: 26px;
-  line-height: 119%;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--fourth-color);
   text-decoration: none;
@@ -61,7 +61,7 @@ body {
 .nav-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 114%;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--third-color);
   text-decoration: none;
@@ -80,7 +80,7 @@ body {
 .hero-title {
   font-weight: 900;
   font-size: 44px;
-  line-height: 136%;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -91,7 +91,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   font-family: 'Roboto';
-  line-height: 188%;
+  line-height: 1.88;
   display: flex;
   align-items: center;
   text-align: center;
@@ -104,9 +104,10 @@ body {
 }
 
 .section-button {
+  font-family: 'Roboto';
   font-weight: 500;
   font-size: 14px;
-  line-height: 162%;
+  line-height: 1.62;
   letter-spacing: 0.02em;
   color: var(--second-color);
   background-color: var(--sixth-color);
@@ -121,14 +122,14 @@ body {
 
 .section-list h3 {
   font-size: 18px;
-  line-height: 200%;
+  line-height: 2.00;
   letter-spacing: 0.06em;
   color: var(--second-color);
 }
 
 .section-list p {
   font-size: 16px;
-  line-height: 187%;
+  line-height: 1.87;
   letter-spacing: 0.03em;
   color: var(--third-color);
 }
@@ -137,7 +138,7 @@ body {
 
 .ideology-subtitle {
   font-size: 14px;
-  line-height: 114%;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--second-color);
@@ -145,7 +146,7 @@ body {
 
 .ideology-list p {
   font-size: 14px;
-  line-height: 171%;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--third-color);
 }
@@ -153,7 +154,7 @@ body {
 
 .work-title {
   font-size: 36px;
-  line-height: 116%;
+  line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--second-color);
@@ -164,7 +165,7 @@ body {
 .team-title {
   font-family: 'Roboto';
 font-size: 36px;
-line-height: 116%;
+line-height: 1.16;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
@@ -177,7 +178,7 @@ color: #212121;
 .team-list h3 {
   font-weight: 500;
   font-size: 16px;
-  line-height: 118%;
+  line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--second-color);
@@ -185,7 +186,7 @@ color: #212121;
 
 .team-list p {
   font-size: 16px;
-  line-height: 118%;
+  line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--third-color);
@@ -200,7 +201,7 @@ color: #212121;
   text-decoration: none;
   font-style: normal;
   font-size: 14px;
-  line-height: 171%;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--first-color);
 }
@@ -213,7 +214,7 @@ color: #212121;
 .adress-contact {
   font-style: normal;
   font-size: 14px;
-  line-height: 171%;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   text-decoration: none;
   color: rgba(255, 255, 255, 0.6);
